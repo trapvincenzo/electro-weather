@@ -1,0 +1,7 @@
+{
+	"api_key": "{APIKEY}",
+	"lat": "{LAT}",
+	"long": "{LONG}",
+	"units": "{UNITS}",
+	"forecast_api": "https://api.darksky.net/forecast/"
+}

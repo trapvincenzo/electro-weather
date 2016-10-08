@@ -1,0 +1,9 @@
+{
+  "name": "electro-weather",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Vincenzo Trapani <trapvincenzo@gmail.com>",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}

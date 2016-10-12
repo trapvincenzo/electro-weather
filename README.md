@@ -1,5 +1,5 @@
 #Electro-weather
-A simple electron app to diplay the current weather in your tray bar.
+A simple electron app to display the current weather in your tray bar.
 
 ![image](https://s10.postimg.org/uouzjoezt/Screen_Shot_2016_10_08_at_18_32_58.png "logo")
 
